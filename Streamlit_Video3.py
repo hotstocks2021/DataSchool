@@ -3,7 +3,7 @@ import sys
 import streamlit as st
 import pandas as pd
 
-st. set_page_config(layout="wide")
+#st. set_page_config(layout="wide")
 st.markdown("""
 ## How do I select a Pandas Series from a DataFrame?
 Video 3 of Data analysis in Python with Pandas by Data School
