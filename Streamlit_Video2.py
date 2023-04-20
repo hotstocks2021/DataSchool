@@ -3,7 +3,7 @@ import sys
 import streamlit as st
 import pandas as pd
 
-st. set_page_config(layout="wide")
+#st. set_page_config(layout="wide")
 st.markdown("""
 ## How do I read a tabular data file into pandas?
 Video 2 of Data analysis in Python with Pandas by Data School
