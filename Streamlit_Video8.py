@@ -29,7 +29,7 @@ st.write(str(movies.shape))
 
 st.markdown("""
 ## Example 2: filter rows
-\n:green[booleans = []**]
+\n:green[booleans = []]
 \n:green[for length in movies.duration:]
 \n:green[_____if length >= 200:]
 \n:green[__________booleans.append(True)]
