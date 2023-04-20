@@ -10,10 +10,6 @@ st.markdown("""
 ## Data analysis in Python with pandas - Data School 
 \n https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y
 
-## Set the display options
-:red[pd.set_option('expand_frame_repr',False)]
-\n:red[pd.set_option('display.max_colwidth', None)]
-
 ## Video 2: How do I read a tabular data file into pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video2-lbi26f.streamlit.app/
 \n
