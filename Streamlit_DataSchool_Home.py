@@ -25,7 +25,7 @@ Video 5: How do I :red[rename columns] in a pandas DataFrame?
 Video 6: How do I :red[remove columns] from a pandas DataFrame?
 \nhttps://hotstocks2021-dataschool-streamlit-video6-jzo273.streamlit.app/
 \n
-Video 7: How do I sort a pandas DataFrame or a Series?
+Video 7: How do I :red[sort] a pandas DataFrame or a Series?
 \nhttps://hotstocks2021-dataschool-streamlit-video7-1djh6g.streamlit.app/
 \n
 """
