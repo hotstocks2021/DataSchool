@@ -14,7 +14,7 @@ Video 2 of Data analysis in Python with Pandas by Data School
 \n:red[pd.set_option('display.max_colwidth', None)]
 
 ## Example 1 without using read table options
-\n:green[**movieusers = pd.read_table("http://bit.ly/movieusers"**]
+\n:green[**movieusers = pd.read_table("http://bit.ly/movieusers")**]
 """
 )
 
