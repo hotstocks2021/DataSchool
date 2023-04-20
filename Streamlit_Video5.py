@@ -3,6 +3,8 @@ import sys
 import streamlit as st
 import pandas as pd
 
+st.write("Home [link](https://hotstocks2021-dataschool-streamlit-dataschool-home-i8njd0.streamlit.app/)")
+
 pd.set_option('expand_frame_repr',False)
 pd.set_option('display.max_colwidth', None)
 # st.set_page_config(layout="wide")
