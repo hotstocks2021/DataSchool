@@ -31,7 +31,7 @@ Video 7: How do I :red[sort] a pandas DataFrame or a Series?
 Video 8: How do I :red[filter rows] of a pandas DataFrame by column value?
 \nhttps://hotstocks2021-dataschool-streamlit-video8-z6nkbu.streamlit.app/
 \n
-Video 9: How do I apply multiple filter criteria to a pandas DataFrame?
+Video 9: How do I :red[apply multiple filter criteria] to a pandas DataFrame?
 \nhttps://hotstocks2021-dataschool-streamlit-video9-a6hnvz.streamlit.app/
 \n
 """
