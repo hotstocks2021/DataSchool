@@ -34,7 +34,7 @@ st.markdown("""
 ## Example 2: read only the "City" and "State" from a DataFrame
 \n:green[ufo = pd.read_csv("http://bit.ly/uforeports", :red[usecols=["City", "State"]])]
 \nReference by indexes; the results are the same as above
-\n:green[ufo = pd.read_csv("http://bit.ly/uforeports", usecols=[0, 3])]
+\n:green[ufo = pd.read_csv("http://bit.ly/uforeports", :red[usecols=[0, 3]])]
 \nprint(movies.head())
 """)
 ufo = pd.read_csv("http://bit.ly/uforeports", usecols=[0, 3])
