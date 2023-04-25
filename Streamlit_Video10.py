@@ -20,7 +20,7 @@ Video 10 of Data analysis in Python with Pandas by Data School
 :red[pd.set_option('expand_frame_repr', False)]
 \n:red[pd.set_option('display.max_colwidth', None)]
 
-## Example 1: Display the movies DataFrame
+## Example 1: display the UFO DataFrame
 \n:green[**ufo = pd.read_csv("http://bit.ly/uforeports")**]
 \nprint(ufo.head())
 """
