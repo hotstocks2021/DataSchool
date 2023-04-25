@@ -75,5 +75,5 @@ import numpy as np
 st.write(":green[drinks.select_dtypes(:red[include=[np.number]]).dtypes]")
 st.write(drinks.select_dtypes(include=[np.number]).dtypes)
 
-st.write(":green[drinks.select_dtypes(include=[np.number]).head()]")
+st.write(":green[drinks.select_dtypes(:red[include=[np.number]]).head()]")
 st.table(drinks.select_dtypes(include=[np.number]).head())
