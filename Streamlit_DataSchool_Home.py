@@ -34,8 +34,10 @@ Video 8: How do I :red[filter rows] of a pandas DataFrame by column value?
 Video 9: How do I :red[apply multiple filter criteria] to a pandas DataFrame?
 \nhttps://hotstocks2021-dataschool-streamlit-video9-a6hnvz.streamlit.app/
 \n
-Video 10: How do I :red[apply multiple filter criteria] to a pandas DataFrame?
-\nhttps://hotstocks2021-dataschool-streamlit-video10-hjpo76.streamlit.app/
-\n
+Video 10: 
+- Read only specific columns from a DataFrame
+- Read only specific rows from a DataFrame
+- Iterate DataFrame
+- Select only numeric columns from a DataFrame
 """
 )
