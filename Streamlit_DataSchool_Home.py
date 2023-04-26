@@ -43,10 +43,10 @@ Video 9:
 \nhttps://hotstocks2021-dataschool-streamlit-video9-a6hnvz.streamlit.app/
 \n
 Video 10: 
-- Read only specific columns from a DataFrame
-- Read only specific rows from a DataFrame
-- Iterate DataFrame
-- Select only numeric columns from a DataFrame
+- Read only :red[specific columns] from a DataFrame
+- Read only :red[specific rows] from a DataFrame
+- :red[Iterate] DataFrame
+- Select only :red[numeric columns] from a DataFrame
 \nhttps://hotstocks2021-dataschool-streamlit-video10-hjpo76.streamlit.app/
 """
 )
