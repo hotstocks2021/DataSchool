@@ -39,5 +39,6 @@ Video 10:
 - Read only specific rows from a DataFrame
 - Iterate DataFrame
 - Select only numeric columns from a DataFrame
+\nhttps://hotstocks2021-dataschool-streamlit-video9-a6hnvz.streamlit.app/
 """
 )
