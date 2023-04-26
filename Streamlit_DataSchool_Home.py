@@ -48,5 +48,8 @@ Video 10:
 - :red[Iterate] DataFrame
 - Select only :red[numeric columns] from a DataFrame
 \nhttps://hotstocks2021-dataschool-streamlit-video10-hjpo76.streamlit.app/
+Video 11: 
+- How do I use the "axis" parameter in pandas?
+\nhttps://hotstocks2021-dataschool-streamlit-video11-soifzw.streamlit.app/
 """
 )
