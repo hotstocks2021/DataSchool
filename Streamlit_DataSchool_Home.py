@@ -52,7 +52,7 @@ Video 10:
 - How do I use the :red["axis"] parameter in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video11-soifzw.streamlit.app/
 \nVideo 12: 
-- How do I use string methods in pandas?
+- How do I use :red[string methods] in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video12-z8xivl.streamlit.app/
 """
 )
