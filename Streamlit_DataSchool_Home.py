@@ -54,5 +54,8 @@ Video 10:
 \nVideo 12: 
 - How do I use :red[string methods] in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video12-z8xivl.streamlit.app/
+\nVideo 13: 
+- How do I change the :red[data type] of a pandas Series?
+\nhttps://hotstocks2021-dataschool-streamlit-video13-5yvvo4.streamlit.app/
 """
 )
