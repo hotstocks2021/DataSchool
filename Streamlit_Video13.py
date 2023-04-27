@@ -44,7 +44,7 @@ st.markdown("""
 \n:green[drinks = pd.read_csv("http://bit.ly/drinksbycountry", :red[dtype={'beer_servings':float}])]
 \nst.table(drinks.dtypes)
 """)
-drinks = pd.read_csv("http://bit.ly/drinksbycountry", dtype={'beer_servings':float})
+drinks = pd.read_csv("http://bit.ly/drinksbycountry", dtype={'beer_servings': float})
 st.table(drinks.dtypes)
 
 st.markdown("""
