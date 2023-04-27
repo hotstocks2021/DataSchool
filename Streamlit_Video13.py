@@ -40,7 +40,7 @@ st.table(drinks.dtypes)
 
 st.markdown("""
 ## Example 3:
-- Change the data type as your read a DataFrame
+- Change the data type as you read a DataFrame
 \n:green[drinks = pd.read_csv("http://bit.ly/drinksbycountry", :red[dtype={'beer_servings':float}])]
 \nst.table(drinks.dtypes)
 """)
