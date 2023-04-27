@@ -60,5 +60,8 @@ Video 10:
 \nVideo 14: 
 - How should I use :red[groupby] in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video14-lilw1u.streamlit.app/
+\nVideo 15: 
+- How do I :red[explore] a pandas Series?
+\nhttps://hotstocks2021-dataschool-streamlit-video15-l1d8x1.streamlit.app/
 """
 )
