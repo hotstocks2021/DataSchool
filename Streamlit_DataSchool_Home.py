@@ -57,5 +57,8 @@ Video 10:
 \nVideo 13: 
 - How do I change the :red[data type] of a pandas Series?
 \nhttps://hotstocks2021-dataschool-streamlit-video13-5yvvo4.streamlit.app/
+\nVideo 14: 
+- How should I use :red[groupby] in pandas?
+\nhttps://hotstocks2021-dataschool-streamlit-video14-lilw1u.streamlit.app/
 """
 )
