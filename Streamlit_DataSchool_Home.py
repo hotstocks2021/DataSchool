@@ -63,5 +63,8 @@ Video 10:
 \nVideo 15: 
 - How do I :red[explore] a pandas Series?
 \nhttps://hotstocks2021-dataschool-streamlit-video15-l1d8x1.streamlit.app/
+\nVideo 16: 
+- How do I handle :red[missing values (NaN or N/A)] a pandas?
+\nhttps://hotstocks2021-dataschool-streamlit-video16-tszfyb.streamlit.app/
 """
 )
