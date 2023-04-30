@@ -9,7 +9,7 @@ pd.set_option('expand_frame_repr', False)
 pd.set_option('display.max_colwidth', None)
 # st.set_page_config(layout="wide")
 st.markdown("""
-##      * How do I handle missing values in pandas?
+##      * What do I need to know about the pandas index? (Part 1)
 - Note: The reason we need index:
 -      1: identification
 -       2: selection
