@@ -69,5 +69,8 @@ Video 10:
 \nVideo 17: 
 - What do I need to know about the pandas :red[index? (Part 1)]
 \nhttps://hotstocks2021-dataschool-streamlit-video17-s3s6cw.streamlit.app/
+\nVideo 18: 
+- What do I need to know about the pandas :red[index? (Part 2)]
+\nhttps://hotstocks2021-dataschool-streamlit-video18-tlcbgq.streamlit.app/
 """
 )
