@@ -61,7 +61,7 @@ st.write("drinks.continent.value_counts().:red[index]")
 st.write(str(drinks.continent.value_counts().index))
 st.write("drinks.continent.value_counts().:red[values]")
 st.write(str(drinks.continent.value_counts().values))
-st.write("from the Series, find the index Africa")
+st.write("from the Series, find the value of index Africa")
 st.write(drinks.continent.value_counts()["Africa"])
 
 st.markdown("""
