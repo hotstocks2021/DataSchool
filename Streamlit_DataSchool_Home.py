@@ -66,5 +66,8 @@ Video 10:
 \nVideo 16: 
 - How do I handle :red[missing values (NaN or N/A)] a pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video16-tszfyb.streamlit.app/
+\nVideo 17: 
+- What do I need to know about the pandas :red[index? (Part 1)]
+\nhttps://hotstocks2021-dataschool-streamlit-video17-s3s6cw.streamlit.app/
 """
 )
