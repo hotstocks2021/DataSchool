@@ -41,7 +41,7 @@ st.table(drinks.continent.head())
 st.markdown("""
 ## Example 2:
 - set the Country column as the index of the dataset
-\n:green[drinks.:red[set_index("Country", inplace=True)]]
+\n:green[drinks.:red[set_index("country", inplace=True)]]
 \nprint(drinks.head())
 """)
 drinks.set_index("country", inplace=True)
