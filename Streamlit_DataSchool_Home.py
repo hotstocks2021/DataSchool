@@ -72,5 +72,8 @@ Video 10:
 \nVideo 18: 
 - What do I need to know about the pandas :red[index? (Part 2)]
 \nhttps://hotstocks2021-dataschool-streamlit-video18-tlcbgq.streamlit.app/
+\nVideo 19: 
+- How do I use :red[loc and iloc] from a pandas DataFrame?
+\nhttps://hotstocks2021-dataschool-streamlit-video19-uvpk3r.streamlit.app/
 """
 )
