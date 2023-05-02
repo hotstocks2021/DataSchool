@@ -75,5 +75,8 @@ Video 10:
 \nVideo 19: 
 - How do I use :red[loc] and :red[iloc] from a pandas DataFrame?
 \nhttps://hotstocks2021-dataschool-streamlit-video19-uvpk3r.streamlit.app/
+\nVideo 20: 
+- When should I use the :red[inplace] parameter in pandas?
+\nhttps://hotstocks2021-dataschool-streamlit-video20-6yp26d.streamlit.app/
 """
 )
