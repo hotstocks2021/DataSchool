@@ -78,5 +78,10 @@ Video 10:
 \nVideo 20: 
 - When should I use the :red[inplace] parameter in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video20-6yp26d.streamlit.app/
+\nVideo 22: 
+- How do I use pandas with :red[scikit-learn] to create Kaggle submissions?
+- Export dataset to :red[CSV]
+- Convert dataset to :red[pickle file] and pickel file back to dataset
+\nhttps://hotstocks2021-dataschool-streamlit-video22-i6nvw6.streamlit.app/
 """
 )
