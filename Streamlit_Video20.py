@@ -37,6 +37,7 @@ st.markdown("""
 \n:green[ufo.:red[drop("City", axis=1, inplace=True)]]
 \nprint(ufo.head())
 """)
+ufo.drop("City", axis=1, inplace=True)
 st.table(ufo.head())
 
 st.markdown("""
