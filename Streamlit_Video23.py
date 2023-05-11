@@ -34,7 +34,7 @@ st.write(str(ufo.shape))
 
 st.markdown("""
 ## Example 2:
-- get three same sample rows
+- get three sample rows
 \n:green[print(ufo.:red[sample(n=3))]]
 """)
 st.table(ufo.sample(n=3))
