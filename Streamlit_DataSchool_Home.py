@@ -83,5 +83,8 @@ Video 10:
 - Export dataset to :red[CSV]
 - Convert dataset to :red[pickle file] and pickel file back to dataset
 \nhttps://hotstocks2021-dataschool-streamlit-video22-i6nvw6.streamlit.app/
+\nVideo 22: 
+- How do I use :red[sample] method in pandas?
+\nhttps://hotstocks2021-dataschool-streamlit-video23-7xxrc7.streamlit.app/
 """
 )
