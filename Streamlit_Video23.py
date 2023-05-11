@@ -41,7 +41,7 @@ st.table(ufo.sample(n=3))
 
 st.markdown("""
 ## Example 3:
-- get three sample rows
+- get three same sample rows
 \n:green[print(ufo.:red[sample(n=3, random_state=50))]]
 """)
 st.table(ufo.sample(n=3, random_state=50))
