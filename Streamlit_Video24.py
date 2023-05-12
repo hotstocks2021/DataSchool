@@ -9,7 +9,7 @@ pd.set_option('expand_frame_repr', False)
 pd.set_option('display.max_colwidth', None)
 # st.set_page_config(layout="wide")
 st.markdown("""
-##      How do I work with dates and times in pandas?
+##      How do I create dummy variables in pandas?
 Note: 
 - 
 
