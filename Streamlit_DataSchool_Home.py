@@ -89,5 +89,8 @@ Video 10:
 \nVideo 24: 
 - How do I create :red[dummy variables] in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video24-09o1p6.streamlit.app/
+\nVideo 25: 
+- How do I work with :red[dates and times] in pandas?
+\nhttps://hotstocks2021-dataschool-streamlit-video25-02dqtq.streamlit.app/
 """
 )
