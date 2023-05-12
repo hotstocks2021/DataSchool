@@ -72,10 +72,10 @@ Video 10:
 \nVideo 18: 
 - What do I need to know about the pandas :red[index? (Part 2)]
 \nhttps://hotstocks2021-dataschool-streamlit-video18-tlcbgq.streamlit.app/
-\nVideo 19: 
+\nVideo 20: 
 - How do I use :red[loc] and :red[iloc] from a pandas DataFrame?
 \nhttps://hotstocks2021-dataschool-streamlit-video19-uvpk3r.streamlit.app/
-\nVideo 20: 
+\nVideo 21: 
 - When should I use the :red[inplace] parameter in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video20-6yp26d.streamlit.app/
 \nVideo 22: 
@@ -83,10 +83,10 @@ Video 10:
 - Export dataset to :red[CSV]
 - Convert dataset to :red[pickle file] and pickel file back to dataset
 \nhttps://hotstocks2021-dataschool-streamlit-video22-i6nvw6.streamlit.app/
-\nVideo 22: 
+\nVideo 23: 
 - How do I use :red[sample] method in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video23-7xxrc7.streamlit.app/
-\nVideo 23: 
+\nVideo 24: 
 - How do I create :red[dummy variables] in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video24-09o1p6.streamlit.app/
 """
