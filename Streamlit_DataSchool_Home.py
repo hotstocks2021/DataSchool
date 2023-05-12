@@ -86,5 +86,8 @@ Video 10:
 \nVideo 22: 
 - How do I use :red[sample] method in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video23-7xxrc7.streamlit.app/
+\nVideo 23: 
+- How do I create :red[dummy variables] in pandas?
+\nhttps://hotstocks2021-dataschool-streamlit-video24-09o1p6.streamlit.app/
 """
 )
