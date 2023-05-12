@@ -72,10 +72,10 @@ Video 10:
 \nVideo 18: 
 - What do I need to know about the pandas :red[index? (Part 2)]
 \nhttps://hotstocks2021-dataschool-streamlit-video18-tlcbgq.streamlit.app/
-\nVideo 20: 
+\nVideo 19: 
 - How do I use :red[loc] and :red[iloc] from a pandas DataFrame?
 \nhttps://hotstocks2021-dataschool-streamlit-video19-uvpk3r.streamlit.app/
-\nVideo 21: 
+\nVideo 20: 
 - When should I use the :red[inplace] parameter in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video20-6yp26d.streamlit.app/
 \nVideo 22: 
