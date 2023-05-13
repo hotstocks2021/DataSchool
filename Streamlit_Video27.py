@@ -66,7 +66,7 @@ Try using .loc[row_indexer,col_indexer] = value instead]
 """)
 st.write("\n")
 st.write(":red[**Note**]: the line from above is a two operations, get and set. Pandas can't guarantee the get operating "
-         "is a :red[copy] or :red[view] of the dataset; therefore it throw an :red[warning].")
+         "is a :red[copy] or :red[view] of the dataset; therefore it throws an :red[warning].")
 st.write("- movies[movies.content_rating == \"NOT RATED\"] : This is :red[get]")
 st.write("- .content_rating = np.nan : This is :red[set]")
 
