@@ -79,7 +79,7 @@ st.write("movies.:red[loc][movies.content_rating == \"NOT RATED\", \"content_rat
 movies.loc[movies.content_rating == "NOT RATED", "content_rating"] = np.nan
 st.write("print(movies.content_rating.isnull().sum())")
 st.write(str(movies.content_rating.isnull().sum()))
-st.write("- the sum of content_rating.isnull().sum() is not 68")
+st.write("- the sum of content_rating.isnull().sum() is now 68")
 
 st.markdown("""
 ## Example 5:
