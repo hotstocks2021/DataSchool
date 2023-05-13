@@ -112,19 +112,17 @@ year_data = ufo.Year.value_counts().sort_index()
 st.write("print(:red[year_data])")
 st.table(year_data)
 
-import matplotlib.pyplot as plt
 import numpy as np
 st.markdown("""
 ## Example 11:
 - plot the report sightings in a year
 \n:green[:red[xpoints] = :red[np.array(year_data.index.values)]]
 \n:green[:red[ypoints] = :red[np.array(year_data.values)]]
+\n:green[:red[df] = :red[pd.DataFrame(ypoints, xpoints)]]
+\n:green[st.:red[line_chart(df)]]
 """)
 xpoints = np.array(year_data.index.values)
 ypoints = np.array(year_data.values)
-# plt.plot(xpoints, ypoints)
-# plt.show()
-
-st.line_chart(xpoints)
-st.line_chart(ypoints)
+df = pd.DataFrame(ypoints, xpoints)
+st.line_chart(df)
 
