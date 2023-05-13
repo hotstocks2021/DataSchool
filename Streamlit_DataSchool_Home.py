@@ -92,5 +92,8 @@ Video 10:
 \nVideo 25: 
 - How do I work with :red[dates and times] in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video25-02dqtq.streamlit.app/
+\nVideo 26: 
+- How do I :red[find and remove duplicate] rows in pandas?
+\nhttps://hotstocks2021-dataschool-streamlit-video26-g5pdbf.streamlit.app/
 """
 )
