@@ -76,10 +76,11 @@ st.markdown("""
 - use loc instead for the above example because loc turns a two operations into a single set operation
 """)
 st.write("movies.:red[loc][movies.content_rating == \"NOT RATED\", \"content_rating\"] = np.nan")
+st.write("- the sum of content_rating.isnull().sum() is now 68")
 movies.loc[movies.content_rating == "NOT RATED", "content_rating"] = np.nan
 st.write("print(movies.content_rating.isnull().sum())")
 st.write(str(movies.content_rating.isnull().sum()))
-st.write("- the sum of content_rating.isnull().sum() is now 68")
+
 
 st.markdown("""
 ## Example 5:
