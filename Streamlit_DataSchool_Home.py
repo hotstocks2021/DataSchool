@@ -95,5 +95,8 @@ Video 10:
 \nVideo 26: 
 - How do I :red[find and remove duplicate] rows in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video26-g5pdbf.streamlit.app/
+\nVideo 27: 
+- How do I avoid a :red[SettingWithCopyWarning] in pandas?
+\nhttps://hotstocks2021-dataschool-streamlit-video27-yn7onq.streamlit.app/
 """
 )
