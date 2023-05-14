@@ -88,12 +88,12 @@ st.markdown("""
 """)
 st.write("- set the default display.max_columns")
 pd.set_option("display.max_columns", None)
-st.write("pd.:red[get_option(\"display.max_columns\"), None]")
+st.write("pd.:red[set_option(\"display.max_columns\"), None]")
 st.write(str(pd.get_option("display.max_columns")))
 
 st.write("- set the default display.max_colwidth")
 pd.set_option("display.max_colwidth", None)
-st.write("pd.:red[get_option(\"display.max_colwidth\", None)]")
+st.write("pd.:red[set_option(\"display.max_colwidth\", None)]")
 st.write(str(pd.get_option("display.max_colwidth")))
 
 st.markdown("""
