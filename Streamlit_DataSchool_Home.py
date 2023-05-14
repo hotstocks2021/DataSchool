@@ -98,5 +98,8 @@ Video 10:
 \nVideo 27: 
 - How do I avoid a :red[SettingWithCopyWarning] in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video27-yn7onq.streamlit.app/
+\nVideo 28: 
+- How do I :red[change display options] in pandas?
+\nhttps://hotstocks2021-dataschool-streamlit-video28-ha6b3r.streamlit.app/
 """
 )
