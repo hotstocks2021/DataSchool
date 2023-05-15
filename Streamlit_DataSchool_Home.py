@@ -104,6 +104,9 @@ Video 10:
 \nVideo 29:
 - How do I :red[create a pandas DataFrame] from another object?
 \nhttps://hotstocks2021-dataschool-streamlit-video29-46h7s8.streamlit.app/
+\nVideo 30:
+- How do I :red[apply a function] to a pandas Series or DataFrame?
+\nhttps://hotstocks2021-dataschool-streamlit-video30-34otxa.streamlit.app/
 """
 )
 
