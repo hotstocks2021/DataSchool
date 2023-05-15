@@ -101,5 +101,9 @@ Video 10:
 \nVideo 28: 
 - How do I :red[change display options] in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video28-ha6b3r.streamlit.app/
+\nVideo 29:
+- How do I :red[create a pandas DataFrame] from another object?
+\nhttps://hotstocks2021-dataschool-streamlit-video29-46h7s8.streamlit.app/
 """
 )
+
