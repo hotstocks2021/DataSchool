@@ -107,6 +107,9 @@ Video 10:
 \nVideo 30:
 - How do I :red[apply a function] to a pandas Series or DataFrame?
 \nhttps://hotstocks2021-dataschool-streamlit-video30-34otxa.streamlit.app/
+\nVideo 31:
+- How do I :red[apply a function] to a pandas Series or DataFrame?
+\nhttps://hotstocks2021-dataschool-streamlit-video31-1yqqjs.streamlit.app/
 """
 )
 
