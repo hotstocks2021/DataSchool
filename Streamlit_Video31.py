@@ -40,11 +40,11 @@ https://pandas.pydata.org/pandas-docs/version/0.22/api.html#datetimelike-propert
 )
 stocks = pd.read_csv('http://bit.ly/smallstocks')
 st.table(stocks)
-st.write("print(train.:red[shape])")
+st.write("print(stocks.:red[shape])")
 st.write(str(stocks.shape))
-st.write("print(train.:red[dtypes])")
+st.write("print(stocks.:red[dtypes])")
 st.table(stocks.dtypes)
-st.write("print(train.:red[index])")
+st.write("print(stocks.:red[index])")
 st.write(str(stocks.index))
 
 st.markdown("""
