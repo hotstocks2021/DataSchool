@@ -110,6 +110,9 @@ Video 10:
 \nVideo 31:
 - How do I :red[apply a function] to a pandas Series or DataFrame?
 \nhttps://hotstocks2021-dataschool-streamlit-video31-1yqqjs.streamlit.app/
+\nVideo 32:
+- How do I :red[merge] DataFrames in pandas?
+\nhttps://hotstocks2021-dataschool-streamlit-video32-9urlng.streamlit.app/
 """
 )
 
