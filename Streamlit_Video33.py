@@ -184,13 +184,14 @@ st.write(drinks.describe())
 st.markdown("""
 - [More information](http://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html)
 - [Video: When should I use a "groupby" in pandas?](https://www.youtube.com/watch?v=qy0fDqoMJx8&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=15)
+- [Pandas Cheat Sheet](https://github.com/hotstocks2021/DataSchool/blob/main/data/Pandas_Cheat_Sheet.pdf)
 """)
 
-import base64
-def show_pdf(file_path):
-    with open(file_path, "rb") as f:
-        base64_pdf = base64.b64encode(f.read()).decode('utf-8')
-    pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="800" height="800" type="application/pdf"></iframe>'
-    st.markdown(pdf_display, unsafe_allow_html=True)
+# import base64
+# def show_pdf(file_path):
+#     with open(file_path, "rb") as f:
+#         base64_pdf = base64.b64encode(f.read()).decode('utf-8')
+#     pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="800" height="800" type="application/pdf"></iframe>'
+#     st.markdown(pdf_display, unsafe_allow_html=True)
 
-show_pdf(".\data\Pandas_Cheat_Sheet.pdf")
+# show_pdf(".\data\Pandas_Cheat_Sheet.pdf")
