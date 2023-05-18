@@ -113,6 +113,9 @@ Video 10:
 \nVideo 32:
 - How do I :red[merge] DataFrames in pandas?
 \nhttps://hotstocks2021-dataschool-streamlit-video32-9urlng.streamlit.app/
+\nVideo 33:
+- :red[New time-saving tricks] in pandas
+\nhttps://hotstocks2021-dataschool-streamlit-video33-572lrs.streamlit.app/
 """
 )
 
