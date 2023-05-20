@@ -47,7 +47,9 @@ st.markdown("""
 """
 )
 st.write(":red[df] = pd.:red[read_clipboard()]")
+df = pd.read_clipboard()
 st.write("print(:red[df])")
+st.table(df)
 
 st.markdown("""
 ## :red[13. Filter a DataFrame by multiple categories]
@@ -176,8 +178,4 @@ st.table(stocks.style.format(format_dict).hide_index().highlight_min('Close', co
 
 st.table(stocks.style.format(format_dict).hide_index().background_gradient(subset='Volume', cmap='Blues'))
 
-st.table(stocks.style.format(format_dict)
- .hide_index()
- .bar('Volume', color='lightblue', align='zero')
- .set_caption('Stock Prices from October 2016')
-)
+st.table(stocks.style.format(format_dict).hide_index().bar('Volume', color='lightblue', align='zero').set_caption('Stock Prices from October 2016'))
