@@ -119,6 +119,9 @@ Video 10:
 \nVideo 34:
 - :red[New changes] in pandas you need to know about
 \nhttps://hotstocks2021-dataschool-streamlit-video34-6qg2qm.streamlit.app/
+\nVideo 35:
+- Pandas :red[Useful tricks]
+\nhttps://hotstocks2021-dataschool-streamlit-video35-2nd1tq.streamlit.app/
 """
 )
 
