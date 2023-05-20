@@ -167,16 +167,16 @@ st.markdown("""
 )
 st.write(":green[**pd.read_csv('http://bit.ly/smallstocks', parse_dates=['Date']**]")
 stocks = pd.read_csv('http://bit.ly/smallstocks', parse_dates=['Date'])
-st.dataframe(stocks.head())
+st.table(stocks.head())
 
 format_dict = {'Date':'{:%m/%d/%y}', 'Close':'${:.2f}', 'Volume':'{:,}'}
-st.dataframe(stocks.style.format(format_dict))
+st.table(stocks.style.format(format_dict))
 
-st.dataframe(stocks.style.format(format_dict).hide_index().highlight_min('Close', color='red').highlight_max('Close', color='lightgreen'))
+st.table(stocks.style.format(format_dict).hide_index().highlight_min('Close', color='red').highlight_max('Close', color='lightgreen'))
 
-st.dataframe(stocks.style.format(format_dict).hide_index().background_gradient(subset='Volume', cmap='Blues'))
+st.table(stocks.style.format(format_dict).hide_index().background_gradient(subset='Volume', cmap='Blues'))
 
-st.dataframe(stocks.style.format(format_dict)
+st.table(stocks.style.format(format_dict)
  .hide_index()
  .bar('Volume', color='lightblue', align='zero')
  .set_caption('Stock Prices from October 2016')
