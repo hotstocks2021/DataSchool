@@ -47,7 +47,7 @@ st.markdown("""
 """
 )
 st.write(":red[df] = pd.:red[read_clipboard()]")
-df = pd.read_clipboard()
+st.write("df = pd.read_clipboard())
 st.write("print(:red[df])")
 st.table(df)
 
