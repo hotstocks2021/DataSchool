@@ -175,6 +175,8 @@ st.table(stocks.style.format(format_dict))
 
 st.table(stocks.style.format(format_dict).hide().highlight_min('Close', color='red').highlight_max('Close', color='lightgreen'))
 
+import importlib
+import matplotlib
 st.table(stocks.style.format(format_dict).hide().background_gradient(subset='Volume', cmap='Blues'))
 
 st.table(stocks.style.format(format_dict).hide().bar('Volume', color='lightblue', align='zero').set_caption('Stock Prices from October 2016'))
