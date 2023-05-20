@@ -48,7 +48,7 @@ st.markdown("""
 )
 st.write(":red[df] = pd.:red[read_clipboard()]")
 st.write("print(:red[df])")
-st.table(df)
+st.write("df")
 
 st.markdown("""
 ## :red[13. Filter a DataFrame by multiple categories]
