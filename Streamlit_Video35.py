@@ -170,13 +170,17 @@ st.write(":green[**pd.read_csv('http://bit.ly/smallstocks', parse_dates=['Date']
 stocks = pd.read_csv('http://bit.ly/smallstocks', parse_dates=['Date'])
 st.table(stocks.head())
 
+st.write(":red[format_dict] = :red[{'Date':'{:%m/%d/%y}', 'Close':'${:.2f}', 'Volume':'{:,}'}]")
+st.write("st.table(stocks.:red[style.format(format_dict)])")
+
 format_dict = {'Date':'{:%m/%d/%y}', 'Close':'${:.2f}', 'Volume':'{:,}'}
 st.table(stocks.style.format(format_dict))
 
+st.write("st.table(stocks.:red[style.format(format_dict)].hide().:red[highlight_min('Close', color='red')].:red[highlight_max('Close', color='lightgreen')])")
 st.table(stocks.style.format(format_dict).hide().highlight_min('Close', color='red').highlight_max('Close', color='lightgreen'))
 
-import importlib
+st.write("stocks.style.format(format_dict).hide().:red[background_gradient(subset='Volume', cmap='Blues')]")
+st.image(".\\data\\background_gradient.png")
 
-st.table(stocks.style.format(format_dict).hide().background_gradient(subset='Volume', cmap='Blues'))
-
-st.table(stocks.style.format(format_dict).hide().bar('Volume', color='lightblue', align='zero').set_caption('Stock Prices from October 2016'))
+st.write("stocks.style.format(format_dict).hide().:red[bar('Volume', color='lightblue', align='zero')].:red[set_caption('Stock Prices from October 2016')]")
+st.image(".\\data\\bar.png")
